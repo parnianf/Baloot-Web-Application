@@ -26,14 +26,14 @@ Baloot is a system for purchasing required supplies. In this system, the user ca
 
 **CA4**: html, CSS
 
-**CA5**: React, CORS, Spring, Standard API
+**CA5**: React, Spring, CORS Filter, Standard API
 
-**CA6**: MySQL Database, JDBC, Hibernate
+**CA6**: MySQL Database, JDBC, ORM, Hibernate
 
 **CA7**: Authentication, JWT, OAuth, JWT Authentication Filter, SQL Injection
 
 **CA8**: Docker, Nginx
 
 ## Contributors
+* [Parnian Fazel](https://github.com/parnianf/) 
 * [Paria Khoshtab](https://github.com/Theparia/)
-* [Parnian Fazel](https://github.com/parnianf/)
