@@ -3,16 +3,24 @@
 Baloot is a system for purchasing required supplies. In this system, the user can view a list of products presented in different categories, filter products based on their characteristics, create a shopping list, create a favorite list of the products they want, and rate the products.
 
 ### Login Page
-[![image](https://www.linkpicture.com/q/Screenshot-4735.png)](https://www.linkpicture.com/view.php?img=LPic64baf450aa7de158796059)
+<p align="center">
+    <img src="img/loginpage.png" height="400" />
+</p>
 
 ### Home Page
-[![image](https://www.linkpicture.com/q/Screenshot-4723_1.png)](https://www.linkpicture.com/view.php?img=LPic64baf319ef207832630246)
+<p align="center">
+    <img src="img/homepage.png" height="400" />
+</p>
 
 ### Product Page
-[![image](https://www.linkpicture.com/q/Screenshot-4725.png)](https://www.linkpicture.com/view.php?img=LPic64baf37d78c0d1236157231)
+<p align="center">
+    <img src="img/productpage.png" height="400" />
+</p>
 
 ### User Page
-[![image](https://www.linkpicture.com/q/Screenshot-4734.png)](https://www.linkpicture.com/view.php?img=LPic64baf49c2b9e9136487828)
+<p align="center">
+    <img src="img/userpage.png" height="400" />
+</p>
 
 * More details of the page design are available [here](https://www.figma.com/file/D4Jx6BQhZNqSVayhrBRT44/Baloot?type=design&node-id=0-1&mode=design).
 
